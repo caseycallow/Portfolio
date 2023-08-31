@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Casey Callow's website",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "del": "^5.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^3.1.1",
